@@ -2,9 +2,6 @@
   <img src="corvidae-cropped.png">
 </p>
 
-# Azure Functions Example relating to the following Medium Post
-
-link to the medium post
 # Intro
 
 Data collection at QueryClick is growing, as we build out our platform and move closer to completing our MVP we are looking to the future and revisiting the way we do things. 
@@ -47,3 +44,6 @@ The below is a copy of the innerds of the file for you to copy and paste
   }
 }
 ```
+# Medium post
+
+link to the medium post
